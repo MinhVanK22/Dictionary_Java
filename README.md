@@ -52,7 +52,7 @@
 ```
 - Phát âm tiếng anh: Phát âm từ tiếng anh được chọn sử dụng thư viện phát âm của Java
 - Giao đồ họa thân thiện và dễ sử dụng tích hợp các tính năng cơ bản trên, ngoài ra còn có thêm tính năng: Gợi ý từ đang tra, dịch văn bản bằng Google Translate API.
-- Sử dụng thuật tìm nhị phân
+- Sử dụng thuật toán tìm kiếm nhị phân
 
 ## Used API
 
