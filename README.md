@@ -9,11 +9,12 @@
 
 ## Demo
 
-<img src="link_anh_cua_ban">
+<img src="https://imgur.com/XVaWril">
 
 ## Library
 
-<img src="link_anh_cua_ban">
+<img src="https://imgur.com/uzwNBWn">
+[SoureLib](https://sourceforge.net/projects/freetts/files)
 
 ## Main features
 
@@ -54,4 +55,4 @@
 
 ## Used API
 
-- Google Translate API: online traslate
+- Google Translate API: online traslate [Soure API](https://script.google.com/macros/s/AKfycbzzimSXyRhh4zy2rePQ-cTwisM1WdYZRVc1x1UVRj0-NCV2DHkprugTqvoOsh95APWy/exec)
