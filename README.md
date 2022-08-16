@@ -48,7 +48,7 @@
    + Hiển thị từ trong danh sách "Từ của tôi" trước
    + Hiển thị nghĩa chỉnh sửa nếu có (được lưu trong listModified)
    + Nếu từ không được lưu trong listModified: hiển thị từ lưu trong dữ liệu - tức file dictionaries.
-   + Nếu từ không có trong dữ liệu, in ra thông báo.
+   + Nếu từ không có trong dữ liệu, đưa ra thông báo.
 ```
 - Phát âm tiếng anh: Phát âm từ tiếng anh được chọn sử dụng thư viện phát âm của Java
 - Giao đồ họa thân thiện và dễ sử dụng tích hợp các tính năng cơ bản trên, ngoài ra còn có thêm tính năng: Gợi ý từ đang tra, dịch văn bản bằng Google Translate API.
