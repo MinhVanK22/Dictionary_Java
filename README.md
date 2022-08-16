@@ -9,12 +9,12 @@
 
 ## Demo
 
-<img src="https://imgur.com/XVaWril">
+<img src="https://drive.google.com/file/d/1ktDF1069JkpIz4LgryoUon9JDpoHYAxv/view?usp=sharing">
 
 ## Library
 
-<img src="https://imgur.com/uzwNBWn">
-[SoureLib](https://sourceforge.net/projects/freetts/files)
+[Soure Lib](https://sourceforge.net/projects/freetts/files/)
+<img src="https://drive.google.com/file/d/13sw1_x7vq5snaLuGqyFr1H2y8G5POP8e/view?usp=sharing">
 
 ## Main features
 
