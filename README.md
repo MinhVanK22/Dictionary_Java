@@ -5,7 +5,7 @@
 - Dương Hữu Trường (Nhóm trưởng)
 - Nguyễn Minh Văn
 - Nguyễn Hoàng Tú
-- Nguyễn Tuấn Anh
+- Nguyễn Anh Tuấn
 
 ## Demo
 
