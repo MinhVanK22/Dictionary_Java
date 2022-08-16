@@ -14,7 +14,8 @@
 ## Library
 
 [Soure Lib](https://sourceforge.net/projects/freetts/files/)
-![image](https://drive.google.com/file/d/13sw1_x7vq5snaLuGqyFr1H2y8G5POP8e/view?usp=sharing)
+
+![LIB](https://user-images.githubusercontent.com/108819897/184878859-2e387937-8109-4a68-8e47-06244cc2be6b.png)
 
 ## Main features
 
