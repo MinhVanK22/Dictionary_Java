@@ -51,9 +51,10 @@
    + Nếu từ không có trong dữ liệu, đưa ra thông báo.
 ```
 - Phát âm tiếng anh: Phát âm từ tiếng anh được chọn sử dụng thư viện phát âm của Java
-- Giao đồ họa thân thiện và dễ sử dụng tích hợp các tính năng cơ bản trên, ngoài ra còn có thêm tính năng: Gợi ý từ đang tra, dịch văn bản bằng Google Translate API.
+- Giao đồ họa thân thiện và dễ sử dụng tích hợp các tính năng cơ bản trên, ngoài ra còn có thêm tính năng: Gợi ý từ đang tra, dịch văn bản bằng Google Translate API, lấy ví dụ cho từ bằng Google Oxford.
 - Sử dụng thuật toán tìm kiếm nhị phân
 
 ## Used API
 
-- Google Translate API: online traslate [Soure API](https://script.google.com/macros/s/AKfycbzzimSXyRhh4zy2rePQ-cTwisM1WdYZRVc1x1UVRj0-NCV2DHkprugTqvoOsh95APWy/exec)
+- Google Translate API: online traslate [Soure API Translate](https://script.google.com/macros/s/AKfycbzzimSXyRhh4zy2rePQ-cTwisM1WdYZRVc1x1UVRj0-NCV2DHkprugTqvoOsh95APWy/exec)
+- Google Oxford API
